@@ -1,0 +1,15 @@
+#MainFrame {
+    border: none;
+    background-color: transparent;
+    background: url('gui_interaction/icons/simp.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+
+#myCentralWidget {
+    background-color: #1b1b27;
+}
